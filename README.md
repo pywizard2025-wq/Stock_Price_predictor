@@ -35,9 +35,3 @@ Make sure you have Python installed. You can download it from the official <a hr
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
-
-Contributors ✨
-
-Avatar	Name	GitHub	Role	Contributions
-<img src="https://github.com/pywizard2025-wq.png" width="50px" height="50px" alt="Shubh Srivastava"/>	Shubh Srivastava	pywizard2025-wq
-	Project Creator & Maintainer	Core implementation, Documentation
