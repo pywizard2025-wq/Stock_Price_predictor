@@ -1,4 +1,3 @@
-# Stock_Price_predictor
 # Stock-Price-Predictor 📈💰
 
 This project is a stock price predictor that uses Linear Regression to predict the future stock prices of a company (Wells Fargo). The dataset used in this project is the historical stock prices of Wells Fargo from 1 jan 1972 to 24 march 2023
